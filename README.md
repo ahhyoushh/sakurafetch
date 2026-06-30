@@ -25,7 +25,7 @@ Requires Python 3.8+. [`psutil`](https://pypi.org/project/psutil) recommended fo
 ### uv (recommended)
 
 ```bash
-git clone https://github.com/yourusername/sakurafetch
+git clone https://github.com/ahhyoushh/sakurafetch
 cd sakurafetch
 uv tool install .[full]
 sakurafetch --fetch
