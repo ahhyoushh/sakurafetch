@@ -50,6 +50,10 @@ sakurafetch --fetch
 ./sakura.py --fetch
 ```
 
+# Petal accumulation
+
+Petals that reach the bottom accumulate on the ground, building up in layers that gradually decay over time. The ground fills from loose scattered petals up to dense mounds — switch between unicode and ascii mode with `a` to see different glyph sets.
+
 # Controls
 
 | Key       | Action                   |
