@@ -1,0 +1,17 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sakurafetch"
+version = "1.0.0"
+description = "falling cherry blossom petals + neofetch-style system info"
+requires-python = ">=3.8"
+dependencies = []
+optional-dependencies = { full = ["psutil"] }
+
+[project.scripts]
+sakurafetch = "sakura:main"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["sakura.py"]
