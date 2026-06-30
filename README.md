@@ -4,6 +4,20 @@ falling cherry blossom petals + neofetch-style system info for your terminal
 
 ![sakura](media/sakura.gif)
 
+# Themes
+
+| sakura | matcha | sumi |
+|--------|--------|------|
+| ![sakura](media/sakura.png) | ![matcha](media/matcha.png) | ![sumi](media/sumi.png) |
+
+| rose | ocean | neon |
+|------|-------|------|
+| ![rose](media/rose.png) | ![ocean](media/ocean.png) | ![neon](media/neon.png) |
+
+```
+sakurafetch --theme <name> --fetch
+```
+
 # Install
 
 Requires Python 3.8+. [`psutil`](https://pypi.org/project/psutil) recommended for memory/battery.
@@ -48,19 +62,7 @@ sakurafetch --fetch
 | `+` / `-` | More / fewer petals      |
 | `Space`   | Pause                    |
 
-# Themes
 
-| sakura | matcha | sumi |
-|--------|--------|------|
-| ![sakura](media/sakura.png) | ![matcha](media/matcha.png) | ![sumi](media/sumi.png) |
-
-| rose | ocean | neon |
-|------|-------|------|
-| ![rose](media/rose.png) | ![ocean](media/ocean.png) | ![neon](media/neon.png) |
-
-```
-sakurafetch --theme <name> --fetch
-```
 
 # Options
 
