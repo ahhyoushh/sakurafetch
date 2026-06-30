@@ -2,7 +2,7 @@
 
 falling cherry blossom petals + neofetch-style system info for your terminal
 
-![sakura](media/sakura.png)
+![sakura](media/sakura.gif)
 
 # Install
 
